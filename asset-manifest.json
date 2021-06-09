@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/llofa/UTubed/static/css/main.d850c1a7.chunk.css",
-    "main.js": "/llofa/UTubed/static/js/main.fac1a239.chunk.js",
-    "main.js.map": "/llofa/UTubed/static/js/main.fac1a239.chunk.js.map",
-    "runtime-main.js": "/llofa/UTubed/static/js/runtime-main.9b8f3f4e.js",
-    "runtime-main.js.map": "/llofa/UTubed/static/js/runtime-main.9b8f3f4e.js.map",
-    "static/css/2.80dce9aa.chunk.css": "/llofa/UTubed/static/css/2.80dce9aa.chunk.css",
-    "static/js/2.94749406.chunk.js": "/llofa/UTubed/static/js/2.94749406.chunk.js",
-    "static/js/2.94749406.chunk.js.map": "/llofa/UTubed/static/js/2.94749406.chunk.js.map",
-    "index.html": "/llofa/UTubed/index.html",
-    "precache-manifest.8a64d6e704a65b73112e3e76c4eb0e1f.js": "/llofa/UTubed/precache-manifest.8a64d6e704a65b73112e3e76c4eb0e1f.js",
-    "service-worker.js": "/llofa/UTubed/service-worker.js",
-    "static/css/2.80dce9aa.chunk.css.map": "/llofa/UTubed/static/css/2.80dce9aa.chunk.css.map",
-    "static/css/main.d850c1a7.chunk.css.map": "/llofa/UTubed/static/css/main.d850c1a7.chunk.css.map",
-    "static/js/2.94749406.chunk.js.LICENSE.txt": "/llofa/UTubed/static/js/2.94749406.chunk.js.LICENSE.txt",
-    "static/media/decentratube.png": "/llofa/UTubed/static/media/decentratube.aa2f70be.png"
+    "main.css": "/UTubed/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/UTubed/static/js/main.7c8b0510.chunk.js",
+    "main.js.map": "/UTubed/static/js/main.7c8b0510.chunk.js.map",
+    "runtime-main.js": "/UTubed/static/js/runtime-main.64626b76.js",
+    "runtime-main.js.map": "/UTubed/static/js/runtime-main.64626b76.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/UTubed/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.d4401383.chunk.js": "/UTubed/static/js/2.d4401383.chunk.js",
+    "static/js/2.d4401383.chunk.js.map": "/UTubed/static/js/2.d4401383.chunk.js.map",
+    "index.html": "/UTubed/index.html",
+    "precache-manifest.3f0eea6770f8f7aeedd0dbc9e862bd75.js": "/UTubed/precache-manifest.3f0eea6770f8f7aeedd0dbc9e862bd75.js",
+    "service-worker.js": "/UTubed/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/UTubed/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/UTubed/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.d4401383.chunk.js.LICENSE.txt": "/UTubed/static/js/2.d4401383.chunk.js.LICENSE.txt",
+    "static/media/decentratube.png": "/UTubed/static/media/decentratube.aa2f70be.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b8f3f4e.js",
+    "static/js/runtime-main.64626b76.js",
     "static/css/2.80dce9aa.chunk.css",
-    "static/js/2.94749406.chunk.js",
+    "static/js/2.d4401383.chunk.js",
     "static/css/main.d850c1a7.chunk.css",
-    "static/js/main.fac1a239.chunk.js"
+    "static/js/main.7c8b0510.chunk.js"
   ]
 }
