@@ -1,8 +1,8 @@
 {
-  "name": "DVideo",
-  "version": "0.1.0",
-  "description": "Decentralized Social Media",
-  "author": "Dapp University",
+  "name": "DecentraTube",
+  "version": "0.1.1",
+  "description": "YouTube Decentralized",
+  "author": "https://github.com/llofa",
   "homepage": ".",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
